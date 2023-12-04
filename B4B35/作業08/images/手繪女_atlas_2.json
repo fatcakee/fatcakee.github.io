@@ -1,0 +1,163 @@
+﻿{"frames": {
+
+"CachedBmp_63":
+{
+	"frame": {"x":1952,"y":0,"w":54,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":128},
+	"sourceSize": {"w":54,"h":128}
+},
+"CachedBmp_64":
+{
+	"frame": {"x":1260,"y":823,"w":312,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":103},
+	"sourceSize": {"w":312,"h":103}
+},
+"CachedBmp_65":
+{
+	"frame": {"x":1260,"y":718,"w":312,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":103},
+	"sourceSize": {"w":312,"h":103}
+},
+"CachedBmp_66":
+{
+	"frame": {"x":0,"y":575,"w":299,"h":231},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":299,"h":231},
+	"sourceSize": {"w":299,"h":231}
+},
+"CachedBmp_67":
+{
+	"frame": {"x":1626,"y":436,"w":299,"h":231},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":299,"h":231},
+	"sourceSize": {"w":299,"h":231}
+},
+"CachedBmp_68":
+{
+	"frame": {"x":611,"y":903,"w":231,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":231,"h":138},
+	"sourceSize": {"w":231,"h":138}
+},
+"CachedBmp_69":
+{
+	"frame": {"x":0,"y":808,"w":231,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":231,"h":138},
+	"sourceSize": {"w":231,"h":138}
+},
+"CachedBmp_70":
+{
+	"frame": {"x":1066,"y":718,"w":192,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":322},
+	"sourceSize": {"w":192,"h":322}
+},
+"CachedBmp_71":
+{
+	"frame": {"x":1820,"y":669,"w":192,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":322},
+	"sourceSize": {"w":192,"h":322}
+},
+"CachedBmp_72":
+{
+	"frame": {"x":1626,"y":669,"w":192,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":322},
+	"sourceSize": {"w":192,"h":322}
+},
+"CachedBmp_74":
+{
+	"frame": {"x":884,"y":436,"w":180,"h":465},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":465},
+	"sourceSize": {"w":180,"h":465}
+},
+"CachedBmp_75":
+{
+	"frame": {"x":702,"y":436,"w":180,"h":465},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":465},
+	"sourceSize": {"w":180,"h":465}
+},
+"CachedBmp_76":
+{
+	"frame": {"x":456,"y":575,"w":153,"h":408},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":408},
+	"sourceSize": {"w":153,"h":408}
+},
+"CachedBmp_78":
+{
+	"frame": {"x":1346,"y":436,"w":278,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":280},
+	"sourceSize": {"w":278,"h":280}
+},
+"CachedBmp_80":
+{
+	"frame": {"x":1327,"y":0,"w":623,"h":434},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":623,"h":434},
+	"sourceSize": {"w":623,"h":434}
+},
+"CachedBmp_82":
+{
+	"frame": {"x":301,"y":575,"w":153,"h":408},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":408},
+	"sourceSize": {"w":153,"h":408}
+},
+"CachedBmp_83":
+{
+	"frame": {"x":1066,"y":436,"w":278,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":280},
+	"sourceSize": {"w":278,"h":280}
+},
+"CachedBmp_84":
+{
+	"frame": {"x":702,"y":0,"w":623,"h":434},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":623,"h":434},
+	"sourceSize": {"w":623,"h":434}
+},
+"手握筆原稿我的psd":
+{
+	"frame": {"x":0,"y":0,"w":700,"h":573},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":700,"h":573},
+	"sourceSize": {"w":700,"h":573}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "23.0.2.103",
+	"image": "手繪女_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
